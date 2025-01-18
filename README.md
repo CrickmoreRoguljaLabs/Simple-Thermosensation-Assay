@@ -2,7 +2,7 @@
 
 Schematics and instructions for creating a simple two-choice temperature preference assay used in  Miner et al., 2025 to assess heat avoidance.
 
-Schematics for laser cutting the acrylic can be found in ThermosensationAssay.pdf or ThermosensationAssay.ai. We thank Ofer Mazor at the Harvard Medical School Research  Instrumentation Core for the design and construction of this assay.
+Schematics and settings for laser cutting can be found in ThermosensationAssay.pdf or ThermosensationAssay.ai. We thank Ofer Mazor at the Harvard Medical School Research  Instrumentation Core for the design and construction of this assay.
 
 The protocol used to run the assay can be found in ThermosensationAssayProtocol.pdf
 
@@ -31,13 +31,14 @@ Thermocouple and Digital Thermometer (Any)
 
 ## Assembly
 1. Laser cut the black acrylic (bottom and sides) and clear acrylic (top) according to the specifications in the laser cutter files.
-   a. There are two options for the top chamber design: the barbell and the rectangle. We found the barbell retricts movement between the two sides of the area substantially more than the rectangle design. The       rectangle design was used in Miner et al. 2025
+   a. There are two options for the top chamber design: the barbell and the rectangle. We found the barbell retricts movement between the two sides of the area substantially more than the rectangle design. The       rectangle design was used in Miner et al. 2025.
    b. Check the size of the screw holes in the base depending on your choice of legs and screws.
-2. Attach the legs to the base.
-3. Sit the aluminum plates in the base.
-4. Attach the heating pad to the bottom of one plate. Hook up the temperature controller and power supplies.
-5. Sit the acrylic behavior chamber on top of the completed base and secure with hex nuts. You should be able to loosen the nut to slide the the clear acrylic top back and forth to expose or close the fly-loading hole.
-6. Attach a thermocouple to each aluminum plate with metallic tape.
+   c. There are two options for the lower base layer, we used the option without supports in Miner et al. 2025.
+3. Attach the legs to the base.
+4. Sit the aluminum plates in the base.
+5. Attach the heating pad to the bottom of one plate. Hook up the temperature controller and power supplies.
+6. Sit the acrylic behavior chamber on top of the completed base and secure with hex nuts. You should be able to loosen the nut to slide the the clear acrylic top back and forth to expose or close the fly-loading hole.
+7. Attach a thermocouple to each aluminum plate with metallic tape.
 
 Optional: You can add to this set up lights for optogenetics and a commercial consumer camera to record behavior, if desired. See below for examples.
    
