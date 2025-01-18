@@ -2,7 +2,7 @@
 
 Schematics and instructions for creating a simple two-choice temperature preference assay used in  Miner et al., 2025 to assess heat avoidance.
 
-Schematics and laser cutter settings can be found in ThermosensationAssay.pdf or ThermosensationAssay.ai. We thank Ofer Mazor at the Harvard Medical School Research  Instrumentation Core for the design and construction of this assay.
+Schematics for laser cutting the acrylic can be found in ThermosensationAssay.pdf or ThermosensationAssay.ai. We thank Ofer Mazor at the Harvard Medical School Research  Instrumentation Core for the design and construction of this assay.
 
 The protocol used to run the assay can be found in ThermosensationAssayProtocol.pdf
 
